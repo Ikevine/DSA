@@ -87,3 +87,6 @@ int main(){
 	stack.pop();
 	cout<<stack.top();
 }
+
+
+ 
